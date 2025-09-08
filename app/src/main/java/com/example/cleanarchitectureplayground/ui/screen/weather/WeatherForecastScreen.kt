@@ -28,7 +28,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.example.cleanarchitectureplayground.R
-import com.example.domain.weather.weatherforecast.model.WeatherStatus
+import com.example.domain.weatherforecast.model.WeatherStatus
 import com.example.presentation.weather.weatherforecast.model.NineDayWeatherForecastSection
 import com.example.presentation.weather.weatherforecast.model.WeatherForecastDisplay
 import com.example.presentation.weatherforecast.WeatherForecastViewModel

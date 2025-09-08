@@ -3,7 +3,7 @@ package com.example.data.network.di
 import com.example.data.network.GovServiceGenerator
 import com.example.data.network.client.AppOkHttpClientProvider
 import com.example.data.network.client.OkHttpClientProvider
-import com.example.data.weather.weatherforecast.WeatherForecastService
+import com.example.data.weatherforecast.WeatherForecastService
 import dagger.Binds
 import dagger.Module
 import dagger.Provides

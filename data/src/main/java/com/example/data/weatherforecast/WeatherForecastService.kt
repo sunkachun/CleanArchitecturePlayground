@@ -1,6 +1,6 @@
-package com.example.data.weather.weatherforecast
+package com.example.data.weatherforecast
 
-import com.example.data.weather.weatherforecast.entity.NineDayWeatherForecastResponse
+import com.example.data.weatherforecast.entity.NineDayWeatherForecastResponse
 import io.reactivex.Single
 import retrofit2.Response
 import retrofit2.http.GET

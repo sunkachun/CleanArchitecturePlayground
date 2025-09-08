@@ -1,4 +1,4 @@
-package com.example.data.weather.weatherforecast
+package com.example.data.weatherforecast
 
 import com.example.data.util.requireData
 import com.example.domain.weather.weatherforecast.data.WeatherForecastRepository

@@ -1,4 +1,4 @@
-package com.example.domain.weather.weatherforecast.model
+package com.example.domain.weatherforecast.model
 
 enum class WeatherStatus(val caption: String) {
 

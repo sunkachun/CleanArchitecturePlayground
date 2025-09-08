@@ -1,10 +1,10 @@
-package com.example.data.weather.weatherforecast
+package com.example.data.weatherforecast
 
-import com.example.data.weather.weatherforecast.entity.Forecast
-import com.example.data.weather.weatherforecast.entity.NineDayWeatherForecastResponse
+import com.example.data.weatherforecast.entity.Forecast
+import com.example.data.weatherforecast.entity.NineDayWeatherForecastResponse
 import com.example.domain.weather.weatherforecast.model.NineDayWeatherForecast
 import com.example.domain.weather.weatherforecast.model.WeatherForecast
-import com.example.domain.weather.weatherforecast.model.WeatherStatus
+import com.example.domain.weatherforecast.model.WeatherStatus
 import javax.inject.Inject
 
 class WeatherMapper @Inject constructor() {

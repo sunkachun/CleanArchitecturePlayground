@@ -2,7 +2,7 @@ package com.example.data.network
 
 import com.example.data.BuildConfig
 import com.example.data.network.client.AppOkHttpClientProvider
-import com.example.data.weather.weatherforecast.WeatherForecastService
+import com.example.data.weatherforecast.WeatherForecastService
 import retrofit2.Converter
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory

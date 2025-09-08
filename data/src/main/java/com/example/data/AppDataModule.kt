@@ -4,7 +4,7 @@ import android.content.Context
 import com.example.data.database.AppDatabase
 import com.example.data.todonote.RoomToDoNoteRepository
 import com.example.data.todonote.dao.ToDoNoteDao
-import com.example.data.weather.weatherforecast.RemoteWeatherForecastRepository
+import com.example.data.weatherforecast.RemoteWeatherForecastRepository
 import com.example.domain.note.data.ToDoNoteRepository
 import com.example.domain.weather.weatherforecast.data.WeatherForecastRepository
 import dagger.Binds

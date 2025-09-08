@@ -1,6 +1,6 @@
 package com.example.presentation.weather.weatherforecast.model
 
-import com.example.domain.weather.weatherforecast.model.WeatherStatus
+import com.example.domain.weatherforecast.model.WeatherStatus
 
 data class NineDayWeatherForecastSection(
     val generalDisplay: String,
